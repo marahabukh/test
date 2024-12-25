@@ -1,0 +1,13 @@
+.ratings {
+  display: flex;
+}
+
+.fa-star {
+  font-size: 20px;
+  margin-right: 5px;
+  color: #ccc; 
+}
+
+.rating-color {
+  color: #ffbc00; 
+}
